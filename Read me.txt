@@ -1,0 +1,9 @@
+step 1: install python 3.10.6 exe file
+
+step 2:Command: pip install -r requirement.txt
+
+step 3:go to https://my.telegram.org./
+
+step 4:Command: python setup.py
+
+step 5:Command: python Telegram Uploader.py
